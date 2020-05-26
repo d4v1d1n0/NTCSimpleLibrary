@@ -1,0 +1,18 @@
+#######################################
+# Syntax Coloring Map NTC#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NTC	KEYWORD1	NTC
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+tempCelsius	KEYWORD2
+tempKelvin	KEYWORD2
+tempFahrenheit	KEYWORD2
+valueVolts	KEYWORD2#######################################
+# Constants (LITERAL1)
+#######################################
