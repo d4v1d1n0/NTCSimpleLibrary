@@ -7,6 +7,9 @@ void setup() {
 }
 
 void loop() {
+
+  //esempio di utilizzo
+
   ntc.initialize(A3);
   Serial.print(ntc.tempCelsius(0));
   Serial.print(" C - ");
